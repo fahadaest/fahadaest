@@ -82,17 +82,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaest&theme=dark&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahadaest&theme=github-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true&area=true&custom_title=GitHub%20Contributions)
-
-</div>
-
----
 
 
 

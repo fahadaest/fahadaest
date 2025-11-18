@@ -77,6 +77,8 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Apple Wallet](https://img.shields.io/badge/Apple_Wallet-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Google Wallet](https://img.shields.io/badge/Google_Wallet-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 

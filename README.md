@@ -87,13 +87,6 @@
 
 
 
-<div align="center">
-
-![Snake animation](https://github.com/fahadaest/fahadaest/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 

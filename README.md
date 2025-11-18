@@ -85,19 +85,6 @@
 
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Let's Connect
-
-<div align="center">
-
-<a href="https://fahadnasir.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahadaest)
-<a href="https://www.linkedin.com/in/fahadnasirr/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fahadaest)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahhadnasir@gmail.com)
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"> Random Dev Quote
 

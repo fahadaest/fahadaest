@@ -98,16 +98,6 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/fahadaest/count.svg)
-
-**Thanks for visiting!** ⭐
-
----
-
-<div align="center">
-
 ![Snake animation](https://github.com/fahadaest/fahadaest/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -122,10 +112,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-**Thanks for visiting!** ⭐
-
-</div>

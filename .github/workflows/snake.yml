@@ -15,18 +15,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          ref: output
-          path: output
+          fetch-depth: 0
+
+      - name: Setup output branch
+        run: |
+          git checkout -b output 2>/dev/null || git checkout output || (git checkout --orphan output && git rm -rf . || true)
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@master
         with:
           github_user_name: fahadaest
-          svg_out_path: output/github-contribution-grid-snake-dark.svg
-          gif_out_path: output/github-contribution-grid-snake-dark.gif
+          svg_out_path: github-contribution-grid-snake-dark.svg
+          gif_out_path: github-contribution-grid-snake-dark.gif
           colors:
             - '00ff00'
             - '00cc00'

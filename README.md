@@ -16,8 +16,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> About Me
 
 ```bash
-$ whoami
-> Fahad Nasir - Software Developer with 7+ years of experience
 > Passionate about building elegant solutions to complex problems.
 > Constantly learning, coding, and pushing boundaries.
 > Turning coffee into code, one commit at a time.

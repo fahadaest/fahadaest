@@ -94,17 +94,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Featured Projects
-
-<div align="center">
-
-### 🔥 Recent Highlights
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fahadaest&repo=your-repo&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff)](https://github.com/fahadaest/your-repo)
-
-</div>
-
----
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Let's Connect

@@ -106,16 +106,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Coding Activity
-
-```text
-💻 Currently Working On:  [████████████░░░░░░░░] 60%
-📚 Learning:              [████████░░░░░░░░░░░░] 40%
-🎯 Goals:                 [████████████████░░░░] 80%
-⚡ Energy Level:          [████████████████████] 100%
-```
-
----
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Let's Connect
 

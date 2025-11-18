@@ -86,8 +86,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadaest&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00)
-
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=fahadaest&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaest&theme=dark&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8)

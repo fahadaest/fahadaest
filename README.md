@@ -86,15 +86,6 @@
 
 
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"> Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=000000&quote_color=00ff00)
-
-</div>
-
----
 
 <div align="center">
 
